@@ -1,0 +1,45 @@
+software,path,bytes,sha256,verified_original_sha256,matches_verified_original,version_returncode,version_output
+PLINK,/home/mayongcheng/tools/plink,41730792,48e26f69af98df1ffb9e37589051b2b4f19ee1b17a37be27e60b8aea80259aa9,48e26f69af98df1ffb9e37589051b2b4f19ee1b17a37be27e60b8aea80259aa9,True,0,"PLINK v1.90b7.1 64-bit (18 Oct 2023)
+"
+SMR,/home/mayongcheng/tools/smr,5308648,1fa1b42d2c3145d2f9166daeb06e9f3a168a4e7bd636dfe523dde37d4c2a723d,1fa1b42d2c3145d2f9166daeb06e9f3a168a4e7bd636dfe523dde37d4c2a723d,True,1,"*******************************************************************
+* SMR (Summary-data-based Mendelian Randomization)
+* Version 1.3.2 Linux
+* Build at Jun 19 2025 16:09:00, by GCC 8.3
+* (C) 2015-present, Yang Lab, Westlake University
+* Please report bugs to Jian Yang jian.yang@westlake.edu.cn
+* MIT License
+*******************************************************************
+Analysis started at 14:02:39 CST on Sun Oct 25 2026. 
+Hostname: localhost
+flags include:
+--bfile,--gwas-summary,--beqtl-summary,--maf,
+--keep,--remove,--extract-snp,--exclude-snp,
+--extract-probe,--extract-outcome-probe,--extract-exposure-probe,--exclude-probe,
+--exclude-outcome-probe,--exclude-exposure-probe,--eqtl-summary,--ld-upper-limit,
+--peqtl-heidi,--heidi-min-m,--make-besd,--out,
+--peqtl-smr,--smr,--cis-wind,--peqtl-trans,
+--peqtl-cis,--peqtl-other,--efile,--query,
+--heidi-off,--target-snp,--extract-trait,--thread-num,
+--besd-flist,--trans-wind,--plot,--eqtl-flist,
+--smr-format,--merlin-fastassoc-format,--plink-qassoc-format,--gemma-format,
+--update-freq,--genes,--smr-wind,--smr-file,
+--recode,--probe-var,--chr,--probe-chr,
+--snp-chr,--snp,--from-snp,--to-snp,
+--probe,--from-probe,--to-probe,--snp-wind,
+--probe-wind,--gene,--from-snp-kb,--to-snp-kb,
+--from-probe-kb,--to-probe-kb,--extract-single-exposure-probe,--extract-single-outcome-probe,
+--exclude-single-exposure-probe,--exclude-single-outcome-probe,--gene-list,--set-list,
+--set-wind,--smr-multi,--qfile,--make-besd-dense,
+--bolt-assoc-format,--geno-uni,--psmr,--beqtl-qc,
+--z-thresh,--heidi-mtd,--phet,--descriptive-trans,
+--descriptive-cis,--meta,--trans,--extract-cis,
+--rm-technical,--p-technical,--ld-lower-limit,--heidi-max-m,
+--extract-snp-p,--exclude-snp-p,--matrix-eqtl-format,--fastqtl-nominal-format,
+--fastqtl-permu-format,--add-n,--show-n,--update-epi,
+--update-esi,--cis-to-all,--mecs,--pmecs,
+--mmecs,--sample-overlap,--ld-multi-snp,--extract-target-snp-probe,
+--extract-snp-probe,--disable-freq-ck,--diff-freq,--diff-freq-prop,
+--r,--r2,--ld-wind,--bld,
+--make-bld,--snp-rm,--qtltools-nominal-format,--qtltools-permu-format,
+--nmecs,--outcome-wind,
+"

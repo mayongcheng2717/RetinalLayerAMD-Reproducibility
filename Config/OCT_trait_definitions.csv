@@ -1,0 +1,10 @@
+trait,operational_definition,dependency_or_measurement_note,UKB_source_field
+RNFL,Retinal nerve fiber layer thickness,"Boundary-derived thickness from OCT segmentation, averaged across scans where applicable","left eye 21012; right eye 21014"
+GCC,Ganglion cell complex thickness,"GCC = RNFL + GCL + IPL; not independent of its component traits","left eye 21012; right eye 21014"
+GCL,Ganglion cell layer thickness,"Component of GCC","left eye 21012; right eye 21014"
+INL,Inner nuclear layer thickness,"Boundary-derived thickness from OCT segmentation","left eye 21012; right eye 21014"
+IPL,Inner plexiform layer thickness,"Component of GCC","left eye 21012; right eye 21014"
+OPL,Outer plexiform plus outer nuclear layer thickness,"The GWAS trait labelled OPL is operationally OPL+ONL","left eye 21012; right eye 21014"
+PS,Photoreceptor segment thickness,"Use the term photoreceptor segments consistently","left eye 21012; right eye 21014"
+RPE,Retinal pigment epithelium plus Bruch membrane thickness,"The GWAS trait labelled RPE is operationally RPE+BM","left eye 21012; right eye 21014"
+CSI,Choroidal thickness between Bruch membrane and the choroid-sclera interface,"CSI is an operational choroidal thickness phenotype; it is not merely the anatomical interface itself","left eye 21012; right eye 21014"

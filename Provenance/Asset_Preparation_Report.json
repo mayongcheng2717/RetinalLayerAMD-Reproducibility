@@ -1,0 +1,114 @@
+[
+  {
+    "figure": "Figure 1",
+    "source": "user-supplied PNG; erroneous early-AMD attribution removed from the combined disease-GWAS sample-size line",
+    "pixels": [
+      2446,
+      1802
+    ],
+    "vector_available": false,
+    "processing": "text-label correction, white-background RGB, and 2.1x Lanczos resampling; numerical totals unchanged",
+    "sha256": "688c42c41a767fe479ca6241dacacc6a2c40c53382d6ed2f8dfa3d3989be6335",
+    "original_sha256": "68c0ca4502c6e7ce3bbd1dcc36d25a992b5fbab5d56118c9704ae070b631d960",
+    "corrected_native_sha256": "4d742a7c6164c04bf0abe27d83448b4042c02c01ff28492afad83799f21d6a2f"
+  },
+  {
+    "figure": "Figure 2",
+    "source": "final pipeline PNG/PDF",
+    "pixels": [
+      2125,
+      1322
+    ],
+    "vector_available": true,
+    "processing": "white-background flattening at identical pixels",
+    "sha256": "9a9e3caea84f5d1362994d9f415bcd8772a630a92385e81c56a1cf9db4326b5e"
+  },
+  {
+    "figure": "Figure 3",
+    "source": "final pipeline PNG/PDF",
+    "pixels": [
+      2160,
+      2460
+    ],
+    "vector_available": true,
+    "processing": "white-background flattening at identical pixels",
+    "sha256": "5eaf72169fe751fb16aab53f848c6fa2e0d5d5a28a8aa2f31c0e6c97395079fd"
+  },
+  {
+    "figure": "Figure 4",
+    "source": "final pipeline PNG/PDF",
+    "pixels": [
+      2160,
+      3180
+    ],
+    "vector_available": true,
+    "processing": "white-background flattening at identical pixels",
+    "sha256": "5f7988e65837de1b4eb80bb79efe252fc066d388bdf2023f54c720f2b99bac2c"
+  },
+  {
+    "figure": "Figure 5",
+    "source": "final pipeline PNG/PDF",
+    "pixels": [
+      2160,
+      2040
+    ],
+    "vector_available": true,
+    "processing": "white-background flattening at identical pixels",
+    "sha256": "d0fc517baad6590b2fb853a0f4f0c3a4f0cfea239e0e960e496ab57670999728"
+  },
+  {
+    "figure": "Figure 6",
+    "source": "final pipeline PNG/PDF",
+    "pixels": [
+      2160,
+      2460
+    ],
+    "vector_available": true,
+    "processing": "white-background flattening at identical pixels",
+    "sha256": "50793945c28e1191d1bba6a8a84dee0140b4f6ada77b0fd261e2f27770f8fee9"
+  },
+  {
+    "figure": "Supplementary Figure S1",
+    "source": "final pipeline PNG/PDF",
+    "pixels": [
+      2160,
+      2520
+    ],
+    "vector_available": true,
+    "processing": "white-background flattening at identical pixels",
+    "sha256": "c04248b2b4ac7bfa14a588bc662c7190a708c982379954a620217e9ef81bd4ae"
+  },
+  {
+    "figure": "Supplementary Figure S2",
+    "source": "final pipeline PNG/PDF",
+    "pixels": [
+      2160,
+      1890
+    ],
+    "vector_available": true,
+    "processing": "white-background flattening at identical pixels",
+    "sha256": "0a67a39e2f08724dd3a0e87430e544e5e56f0cefff12451ff7b32c7e02a94f49"
+  },
+  {
+    "figure": "Supplementary Figure S3",
+    "source": "final pipeline PNG/PDF",
+    "pixels": [
+      2160,
+      1440
+    ],
+    "vector_available": true,
+    "processing": "white-background flattening at identical pixels",
+    "sha256": "919fed0a788601c0b4a9821fc22191858475056a45e362901b19d925d6bce0bf"
+  },
+  {
+    "figure": "Supplementary Figure S4",
+    "source": "final pipeline PNG/PDF",
+    "pixels": [
+      2160,
+      2010
+    ],
+    "vector_available": true,
+    "processing": "white-background flattening at identical pixels",
+    "sha256": "f66d97d254acd564c3594ac10eb8cb849e50f68ebc6c4af44373723b9d6f493c"
+  }
+]

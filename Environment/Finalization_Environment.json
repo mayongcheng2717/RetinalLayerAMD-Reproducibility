@@ -1,0 +1,16 @@
+{
+  "role": "Final packaging and figure environment record",
+  "date": "2026-10-27",
+  "python": "3.12.12 (main, Oct  9 2025, 22:40:06) [GCC 12.2.0]",
+  "platform": "Linux-5.10.134-18.0.12.lifsea8.x86_64-x86_64-with-glibc2.36",
+  "packages": {
+    "numpy": "2.2.5",
+    "pandas": "2.3.2",
+    "scipy": "1.16.2",
+    "matplotlib": "3.10.3",
+    "openpyxl": "3.1.5",
+    "statsmodels": "0.14.5",
+    "scikit-learn": "1.7.2",
+    "Pillow": "13.0.0"
+  }
+}

@@ -1,0 +1,38 @@
+source_data,rows,columns,expected_rows,status,check_note
+Source_Data/Figure_2A_h2_transcribed.csv,10,5,10,PASS,Ten transcribed point estimates; no SE imputation.
+Source_Data/Figure_2B_LDSC_early_AMD.csv,9,8,9,PASS,Nine layer-early AMD genetic correlations.
+Source_Data/Figure_3A_forward_MR.csv,4,9,4,PASS,Three primary associations plus one OPL corrected estimate.
+Source_Data/Figure_3B_reverse_MR.csv,9,15,9,PASS,Primary nine-test FDR is present and exact.
+Source_Data/Figure_3C_MVMR_sensitivity.csv,9,5,9,PASS,Three methods with three exposures each.
+Source_Data/Figure_4A_colocalization.csv,13,17,13,PASS,
+Source_Data/Figure_4B_SMR_42pairs.csv,42,38,42,PASS,
+Source_Data/Figure_4C_SMR_rule_counts.csv,5,9,5,PASS,
+Source_Data/Figure_4D_TNXB_mediation.csv,4,5,4,PASS,
+Source_Data/Figure_5A_scDRS_66.csv,66,13,66,PASS,
+Source_Data/Figure_5B_scDRS_global9.csv,9,14,9,PASS,
+Source_Data/Figure_6A_Visium_correlations.csv,30,27,30,PASS,
+Source_Data/Figure_6B_Visium_panel_audit.csv,80,17,80,PASS,
+Source_Data/Figure_6C_Visium_spot_expression.csv,13,6,13,PASS,
+Source_Data/Figure_6D_Visium_section_ratios.csv,30,9,30,PASS,
+Source_Data/Supplementary_Figure_S1A_full54.csv,54,72,54,PASS,
+Source_Data/Supplementary_Figure_S2A_conditional_F.csv,3,2,3,PASS,
+Source_Data/Supplementary_Figure_S2B_Q_contributions.csv,15,9,15,PASS,
+Source_Data/Supplementary_Figure_S2C_RPE_LOO.csv,118,16,118,PASS,
+Source_Data/Supplementary_Figure_S3_INL_obs0.1_mean_F.csv,5,19,5,PASS,
+Source_Data/Supplementary_Figure_S3_INL_obs0.1_minimum_single_SNP_F.csv,5,19,5,PASS,
+Source_Data/Supplementary_Figure_S3_INL_obs0.2_mean_F.csv,5,19,5,PASS,
+Source_Data/Supplementary_Figure_S3_INL_obs0.2_minimum_single_SNP_F.csv,5,19,5,PASS,
+Source_Data/Supplementary_Figure_S3_INL_obs0.5_mean_F.csv,5,19,5,PASS,
+Source_Data/Supplementary_Figure_S3_INL_obs0.5_minimum_single_SNP_F.csv,5,19,5,PASS,
+Source_Data/Supplementary_Figure_S3_INL_obs1.0_mean_F.csv,5,19,5,PASS,
+Source_Data/Supplementary_Figure_S3_INL_obs1.0_minimum_single_SNP_F.csv,5,19,5,PASS,
+Source_Data/Supplementary_Figure_S3_OPL_obs0.1_mean_F.csv,5,19,5,PASS,
+Source_Data/Supplementary_Figure_S3_OPL_obs0.1_minimum_single_SNP_F.csv,5,19,5,PASS,
+Source_Data/Supplementary_Figure_S3_OPL_obs0.2_mean_F.csv,5,19,5,PASS,
+Source_Data/Supplementary_Figure_S3_OPL_obs0.2_minimum_single_SNP_F.csv,5,19,5,PASS,
+Source_Data/Supplementary_Figure_S3_OPL_obs0.5_mean_F.csv,5,19,5,PASS,
+Source_Data/Supplementary_Figure_S3_OPL_obs0.5_minimum_single_SNP_F.csv,5,19,5,PASS,
+Source_Data/Supplementary_Figure_S3_OPL_obs1.0_mean_F.csv,5,19,5,PASS,
+Source_Data/Supplementary_Figure_S3_OPL_obs1.0_minimum_single_SNP_F.csv,5,19,5,PASS,
+Source_Data/Supplementary_Figure_S4A_scDRS_parameters.csv,36,3,36,PASS,
+Source_Data/Supplementary_Figure_S4B_scDRS_LODO.csv,54,22,54,PASS,

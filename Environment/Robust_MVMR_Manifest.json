@@ -1,0 +1,37 @@
+{
+  "status": "complete",
+  "method_reference": "Grant AJ, Burgess S. Stat Med. 2021;40:5813-5830. DOI 10.1002/sim.9156",
+  "method_source": "https://github.com/aj-grant/robust-mvmr/blob/master/mvmr_functions.R",
+  "source_file_sha_verified_from_GitHub_API": "4e3b1ea32ba9da971e24ca248bb73cdf5233423f",
+  "implementation": "Independent SciPy HiGHS weighted-L1 linear program and NumPy weighted least squares; no R package execution claimed",
+  "bootstrap_iterations": 10000,
+  "seed": 20261026,
+  "bootstrap_draws": "Independent normal draws for every SNP-exposure and SNP-outcome association using reported SE; fixed original outcome-SE weights",
+  "inference": "MVMR-Median bootstrap SE with normal P and CI; MVMR-Egger t P and matched t CI with df=n-(k+1)",
+  "LP_crosscheck_max_abs_beta_difference_vs_statsmodels_unweighted": 2.591863820416984e-05,
+  "software": {
+    "python": "3.12.12",
+    "numpy": "2.2.5",
+    "pandas": "2.3.2",
+    "scipy": "1.16.2"
+  },
+  "limitations": [
+    "Actual participant overlap is unknown and not modelled",
+    "Same-sample OCT exposure covariance is not modelled",
+    "Robust estimators do not repair broad model misspecification or prove causality"
+  ],
+  "files": {
+    "MVMR_earlyAMD_median_sensitivity.csv": {
+      "bytes": 2272,
+      "sha256": "b0172b197314a68e5432596749783110c749b72078a875a1e16d9d07f569a179"
+    },
+    "MVMR_earlyAMD_median_bootstrap.csv.gz": {
+      "bytes": 750029,
+      "sha256": "f306ba56ab6fb7fb9e9f158a84ab02765ba87c1f51aa88f44db77a77f03cba7d"
+    },
+    "MVMR_earlyAMD_Egger_sensitivity.csv": {
+      "bytes": 1573,
+      "sha256": "f5b39c0c606bfa6d5d818e8217890e2bcf41335f8e62af3952961e9f833728b2"
+    }
+  }
+}

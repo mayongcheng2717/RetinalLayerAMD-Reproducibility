@@ -1,0 +1,10 @@
+source_id,software_or_component,version_or_status,use_status,evidence_file
+Software environment and analysis manifests,Python,3.14.4,Local returned analysis environment,software_environment.json
+Software environment and analysis manifests,Python,3.12,Sandbox reconciliation and figure environment,Consolidated analysis runtime
+Software environment and analysis manifests,PLINK,v1.90b7.1 64-bit (18 Oct 2023),Completed,software_environment.json
+Software environment and analysis manifests,SMR,"v1.3.2 Linux, build 19 Jun 2025",Completed local reproduction,software_environment.json
+Software environment and analysis manifests,MAGMA,v1.10,Completed full54/scDRS pipeline,MAGMA manifest
+Software environment and analysis manifests,scDRS,v1.0.2,Completed full54/scDRS pipeline,scDRS manifests
+Software environment and analysis manifests,Rscript,not found,Not used for the returned full54/scDRS pipeline,software_environment.json
+Software environment and analysis manifests,MR implementation,Project Python mrtools,Actual MR implementation; TwoSampleMR was not used,software_environment.json
+Software environment and analysis manifests,MR-PRESSO implementation,Independent Python numerical implementation,"10,000 simulations; not the R package",Final MR-PRESSO outputs

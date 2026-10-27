@@ -1,0 +1,40 @@
+{
+  "figure": "Figure 1",
+  "original_file": "image(127).png",
+  "original_sha256": "68c0ca4502c6e7ce3bbd1dcc36d25a992b5fbab5d56118c9704ae070b631d960",
+  "corrected_native_sha256": "4d742a7c6164c04bf0abe27d83448b4042c02c01ff28492afad83799f21d6a2f",
+  "final_300dpi_sha256": "688c42c41a767fe479ca6241dacacc6a2c40c53382d6ed2f8dfa3d3989be6335",
+  "embedded_media_replaced": [
+    "image1.png"
+  ],
+  "text_before": "6 traits; early AMD: 54,082 cases, 1,306,001 controls",
+  "text_after": "6 traits; 54,082 cases, 1,306,001 controls",
+  "reason": "54,082 cases and 1,306,001 controls are the combined six-disease totals; Winkler early AMD is 14,034 cases and 91,214 controls (GCST010723).",
+  "numerical_values_changed": false,
+  "final_pixels": [
+    2446,
+    1802
+  ],
+  "final_dpi": [
+    300,
+    300
+  ],
+  "original_archive_path": "Figures/Source/Figure_1_author_supplied_original.png",
+  "corrected_native_archive_path": "Figures/Source/Figure_1_corrected_native.png",
+  "final_archive_path": "Figures/PNG/Figure_1.png",
+  "native_pixel_difference_bbox": [
+    38,
+    223,
+    275,
+    243
+  ],
+  "declared_edit_region": [
+    35,
+    221,
+    290,
+    243
+  ],
+  "changes_confined_to_declared_region": true,
+  "font_file": "LiberationSans-Regular.ttf",
+  "font_sha256": "8d91388f1d3604b3b8ae0e3ee2d140e50cd6122f9214514f4aca772540a4076d"
+}

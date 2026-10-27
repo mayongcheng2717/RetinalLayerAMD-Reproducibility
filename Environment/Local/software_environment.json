@@ -1,0 +1,50 @@
+{
+  "python": "3.14.4 (main, Aug 20 2026, 10:41:58) [GCC 15.2.0]",
+  "python_executable": "/usr/bin/python3",
+  "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.43",
+  "machine": "x86_64",
+  "processor": "",
+  "software_commands": {
+    "R_optional": {
+      "command": [
+        "Rscript",
+        "--version"
+      ],
+      "resolved_executable": "Rscript",
+      "status": "not_found"
+    },
+    "PLINK_local_reproduction": {
+      "command": [
+        "/home/mayongcheng/tools/plink",
+        "--version"
+      ],
+      "resolved_executable": "/home/mayongcheng/tools/plink",
+      "executable_sha256": "48e26f69af98df1ffb9e37589051b2b4f19ee1b17a37be27e60b8aea80259aa9",
+      "status": "completed",
+      "returncode": 0,
+      "stdout": "PLINK v1.90b7.1 64-bit (18 Oct 2023)\n",
+      "stderr": ""
+    },
+    "SMR_local_reproduction": {
+      "command": [
+        "/home/mayongcheng/tools/smr",
+        "--version"
+      ],
+      "resolved_executable": "/home/mayongcheng/tools/smr",
+      "executable_sha256": "1fa1b42d2c3145d2f9166daeb06e9f3a168a4e7bd636dfe523dde37d4c2a723d",
+      "status": "completed",
+      "returncode": 1,
+      "stdout": "*******************************************************************\n* SMR (Summary-data-based Mendelian Randomization)\n* Version 1.3.2 Linux\n* Build at Jun 19 2025 16:09:00, by GCC 8.3\n* (C) 2015-present, Yang Lab, Westlake University\n* Please report bugs to Jian Yang jian.yang@westlake.edu.cn\n* MIT License\n*******************************************************************\nAnalysis started at 14:02:40 CST on Sun Oct 25 2026. \nHostname: localhost\nflags include:\n--bfile,--gwas-summary,--beqtl-summary,--maf,\n--keep,--remove,--extract-snp,--exclude-snp,\n--extract-probe,--extract-outcome-probe,--extract-exposure-probe,--exclude-probe,\n--exclude-outcome-probe,--exclude-exposure-probe,--eqtl-summary,--ld-upper-limit,\n--peqtl-heidi,--heidi-min-m,--make-besd,--out,\n--peqtl-smr,--smr,--cis-wind,--peqtl-trans,\n--peqtl-cis,--peqtl-other,--efile,--query,\n--heidi-off,--target-snp,--extract-trait,--thread-num,\n--besd-flist,--trans-wind,--plot,--eqtl-flist,\n--smr-format,--merlin-fastassoc-format,--plink-qassoc-format,--gemma-format,\n--update-freq,--genes,--smr-wind,--smr-file,\n--recode,--probe-var,--chr,--probe-chr,\n--snp-chr,--snp,--from-snp,--to-snp,\n--probe,--from-probe,--to-probe,--snp-wind,\n--probe-wind,--gene,--from-snp-kb,--to-snp-kb,\n--from-probe-kb,--to-probe-kb,--extract-single-exposure-probe,--extract-single-outcome-probe,\n--exclude-single-exposure-probe,--exclude-single-outcome-probe,--gene-list,--set-list,\n--set-wind,--smr-multi,--qfile,--make-besd-dense,\n--bolt-assoc-format,--geno-uni,--psmr,--beqtl-qc,\n--z-thresh,--heidi-mtd,--phet,--descriptive-trans,\n--descriptive-cis,--meta,--trans,--extract-cis,\n--rm-technical,--p-technical,--ld-lower-limit,--heidi-max-m,\n--extract-snp-p,--exclude-snp-p,--matrix-eqtl-format,--fastqtl-nominal-format,\n--fastqtl-permu-format,--add-n,--show-n,--update-epi,\n--update-esi,--cis-to-all,--mecs,--pmecs,\n--mmecs,--sample-overlap,--ld-multi-snp,--extract-target-snp-probe,\n--extract-snp-probe,--disable-freq-ck,--diff-freq,--diff-freq-prop,\n--r,--r2,--ld-wind,--bld,\n--make-bld,--snp-rm,--qtltools-nominal-format,--qtltools-permu-format,\n--nmecs,--outcome-wind,\n",
+      "stderr": ""
+    },
+    "MAGMA_local_reproduction": {
+      "command": [
+        "magma",
+        "--version"
+      ],
+      "resolved_executable": "magma",
+      "status": "not_found"
+    }
+  },
+  "interpretation_note": "Installed-package presence is environmental metadata, not evidence that a package was used. The current MR implementation is the project Python mrtools code; do not claim TwoSampleMR was used unless independently rerun."
+}

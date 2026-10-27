@@ -1,0 +1,32 @@
+{
+  "sample_size_layers": 9,
+  "layer_order": [
+    "CSI",
+    "GCC",
+    "GCL",
+    "INL",
+    "IPL",
+    "OPL",
+    "PS",
+    "RNFL",
+    "RPE"
+  ],
+  "pqtl_files_audited": 7,
+  "pqtl_verified_official_md5": 7,
+  "pqtl_status_by_target": {
+    "TNXB": "verified_official_md5",
+    "PDGFB": "verified_official_md5",
+    "ERBB3": "verified_official_md5",
+    "GDF11": "verified_official_md5",
+    "GDF11_MSTN": "verified_official_md5",
+    "EHMT2": "verified_official_md5",
+    "LY6G6C": "verified_official_md5"
+  },
+  "iamdgc_status": "hashed",
+  "local_binaries_matching_verified_original": {
+    "PLINK": true,
+    "SMR": true,
+    "MAGMA": false
+  },
+  "note": "Local reproduction software is recorded separately from the verified original binaries. A missing or nonmatching local binary is not treated as an empty analysis result."
+}

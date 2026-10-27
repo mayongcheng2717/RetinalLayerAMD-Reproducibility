@@ -1,0 +1,7 @@
+analysis,component,seed_or_rule,iteration_or_design,evidence_file
+Forward MR,"Weighted median, simple mode, weighted mode","1, 2, 3","Nonparametric bootstrap; 10,000 iterations",Config/Final_Parameters.csv
+Forward and reverse MR-PRESSO,Model-specific null simulations,See MR_PRESSO_seed_map.json,"10,000 null simulations; strict-exceedance outlier P",Config/MR_PRESSO_seed_map.json
+Reverse MR-PRESSO,Seed rule,20261025 + 2000 + lexicographic layer index,Independent reconciliation rule,Results/Consolidated/consolidated_analysis_manifest.json
+MVMR-Median,Parametric bootstrap,20261026,"10,000 iterations",Results/Consolidated/MVMR_earlyAMD_robust_manifest.json
+scDRS,Score random seed,0,"Top 1,000 genes; 1,000 matched control sets",Results/Returned/09_full54_scdrs_complete/results_for_return/scDRS/main/scdrs_main_manifest.json
+Visium,Section random nulls,20261024 to 20261028,"1,000 matched random gene sets per section; add-one empirical P",Results/Returned/05_visium_sensitivity/Visium_sensitivity_manifest.json

@@ -1,0 +1,10 @@
+figure,font_status,embedded_raster_elements,minimum_raster_dpi,raster_status,status,font_and_vector_note,sha256
+Figure_2,PASS_WITH_DOCUMENTED_RETAINED_SOURCE,0,No raster elements,PASS,PASS,Retained true-vector source PDF with embedded LiberationSans Type 3 fonts; SVG was converted directly from this vector PDF.,426efcbeb10503f5ca7a858f9885829174a59afd94a8888cd59c19413f455366
+Figure_3,PASS,0,No raster elements,PASS,PASS,Plotting-code export with pdf.fonttype=42; text remains vector.,57096212a5772aba4bb6410d716b45120d8eaa2d17403ffb6633719666374877
+Figure_4,PASS,0,No raster elements,PASS,PASS,Plotting-code export with pdf.fonttype=42; text remains vector.,5d3c4b1f6c005efa7196bc9af616a04ad8e2bd5187c4454ab82356b083021b38
+Figure_5,PASS,1,300.0,PASS,PASS,Plotting-code export with pdf.fonttype=42; text remains vector.,5a1f1149a54d2d84337ad6d9f21a60b90c2b1b47f1721dd3a48cae7314390084
+Figure_6,PASS,3,300.0,PASS,PASS,Plotting-code export with pdf.fonttype=42; text remains vector.,11691d8a2967834cef490bdf08b4d98c924174a072aa1ad616cd14e2c633b346
+Supplementary_Figure_S1,PASS,0,No raster elements,PASS,PASS,Plotting-code export with pdf.fonttype=42; text remains vector.,71556d39ac46027981ebf4808e62e1075b920368010e6e10c046d0532858c4d8
+Supplementary_Figure_S2,PASS,0,No raster elements,PASS,PASS,Plotting-code export with pdf.fonttype=42; text remains vector.,eb45e4c39a87aed8d8f752884bca83ab5387b879211a9fec8cdcd36751fcfeea
+Supplementary_Figure_S3,PASS,0,No raster elements,PASS,PASS,Plotting-code export with pdf.fonttype=42; text remains vector.,7ddfdb93bfec5fe05e3b01c343a9fa9fd2c8b8a1c8674133ae70665b47bcb196
+Supplementary_Figure_S4,PASS,0,No raster elements,PASS,PASS,Plotting-code export with pdf.fonttype=42; text remains vector.,827213f0298e207b4486fbc621ac526c442755c01e8b71eeb42f758eee5ad3fe

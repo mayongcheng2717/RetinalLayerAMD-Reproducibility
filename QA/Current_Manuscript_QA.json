@@ -1,0 +1,244 @@
+{
+  "manuscript": "Manuscript_Eye_and_Vision_v7.docx (submission package; not duplicated in this repository)",
+  "sha256": "1e40bbd832c802779de60d205bfc1f0a0f642bd9ca753184a9934e78f6fc3bc5",
+  "abstract_words": 291,
+  "abstract_words_with_structural_labels": 295,
+  "abstract_pass": true,
+  "inline_shapes": 10,
+  "embedded_png_count": 10,
+  "embedded_images_match_sources": true,
+  "figure_count": 10,
+  "figure_titles_and_legends_pass": true,
+  "references": {
+    "reference_count": 36,
+    "cited_range": [
+      1,
+      36
+    ],
+    "all_references_cited": true,
+    "out_of_range": [],
+    "first_appearance_order": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "first_appearance_is_vancouver_order": true
+  },
+  "required_sections_missing": [],
+  "github_placeholder_count": 2,
+  "github_placeholder_pass": true,
+  "no_doi_statement_present": true,
+  "manual_page_breaks": 0,
+  "enabled_page_break_before_elements": 0,
+  "disabled_page_break_before_elements": 157,
+  "line_numbering": {
+    "countBy": "1",
+    "distance": "240",
+    "restart": "continuous"
+  },
+  "page_field_in_footer": true,
+  "page_size_twips": {
+    "w": 11906,
+    "h": 16838
+  },
+  "margins_twips": {
+    "top": 1134,
+    "bottom": 1134,
+    "left": 1134,
+    "right": 1134,
+    "header": 567,
+    "footer": 567,
+    "gutter": 0
+  },
+  "double_spacing_styles": {
+    "Normal": 2.0,
+    "Body Text": 2.0,
+    "First Paragraph": 2.0,
+    "Compact": 2.0
+  },
+  "tables": [
+    {
+      "table": 1,
+      "rows": 4,
+      "columns": 7,
+      "width_twips": 9359,
+      "content_width_twips": 9638,
+      "width_pass": true,
+      "borders": "{\"top\": \"single\", \"bottom\": \"single\", \"left\": \"nil\", \"right\": \"nil\", \"insideH\": \"nil\", \"insideV\": \"nil\"}",
+      "header_bottom_rule": true,
+      "three_line_pass": true
+    },
+    {
+      "table": 2,
+      "rows": 13,
+      "columns": 4,
+      "width_twips": 9359,
+      "content_width_twips": 9638,
+      "width_pass": true,
+      "borders": "{\"top\": \"single\", \"bottom\": \"single\", \"left\": \"nil\", \"right\": \"nil\", \"insideH\": \"nil\", \"insideV\": \"nil\"}",
+      "header_bottom_rule": true,
+      "three_line_pass": true
+    }
+  ],
+  "numeric_anchors_pass": 31,
+  "numeric_anchors_total": 31,
+  "standalone_figures": [
+    {
+      "file": "Figures/PNG/Figure_1.png",
+      "bytes": 3573852,
+      "under_10MB": true,
+      "pixels": [
+        2446,
+        1802
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ],
+      "mode": "RGB"
+    },
+    {
+      "file": "Figures/PNG/Figure_2.png",
+      "bytes": 167114,
+      "under_10MB": true,
+      "pixels": [
+        2125,
+        1322
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ],
+      "mode": "RGB"
+    },
+    {
+      "file": "Figures/PNG/Figure_3.png",
+      "bytes": 260027,
+      "under_10MB": true,
+      "pixels": [
+        2160,
+        2460
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ],
+      "mode": "RGB"
+    },
+    {
+      "file": "Figures/PNG/Figure_4.png",
+      "bytes": 378893,
+      "under_10MB": true,
+      "pixels": [
+        2160,
+        3180
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ],
+      "mode": "RGB"
+    },
+    {
+      "file": "Figures/PNG/Figure_5.png",
+      "bytes": 196008,
+      "under_10MB": true,
+      "pixels": [
+        2160,
+        2040
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ],
+      "mode": "RGB"
+    },
+    {
+      "file": "Figures/PNG/Figure_6.png",
+      "bytes": 342265,
+      "under_10MB": true,
+      "pixels": [
+        2160,
+        2460
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ],
+      "mode": "RGB"
+    },
+    {
+      "file": "Figures/PDF/Figure_2.pdf",
+      "bytes": 34731,
+      "under_10MB": true
+    },
+    {
+      "file": "Figures/PDF/Figure_3.pdf",
+      "bytes": 33064,
+      "under_10MB": true
+    },
+    {
+      "file": "Figures/PDF/Figure_4.pdf",
+      "bytes": 40103,
+      "under_10MB": true
+    },
+    {
+      "file": "Figures/PDF/Figure_5.pdf",
+      "bytes": 38960,
+      "under_10MB": true
+    },
+    {
+      "file": "Figures/PDF/Figure_6.pdf",
+      "bytes": 37812,
+      "under_10MB": true
+    }
+  ],
+  "additional_files": [
+    {
+      "file": "Additional_file_1_Supplementary_Tables_S1-S13.xlsx",
+      "bytes": 1544059,
+      "under_20MB": true
+    },
+    {
+      "file": "Additional_file_2_Supplementary_Figures_S1-S4.pdf",
+      "bytes": 116658,
+      "under_20MB": true,
+      "pages": 4
+    }
+  ],
+  "language_status": "PASS",
+  "overall_mechanical_pass": true
+}

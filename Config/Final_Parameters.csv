@@ -1,0 +1,16 @@
+source_id,analysis,parameter,final_value_or_rule
+Final analysis manifests,Forward MR,Primary family,54 tests; IVW t df=nsnp-1; MR-Egger t df=nsnp-2
+Final analysis manifests,Forward MR,Median and modes,"10,000 nonparametric bootstrap iterations; seeds 1, 2, and 3"
+Final analysis manifests,Mode estimators,Kernel and grid,"Hartwig normal kernel; Silverman bandwidth; 2,000-point grid"
+Final analysis manifests,MR-PRESSO,Null distribution,"10,000 simulations; model-specific seeds in MR_PRESSO_seed_map.json"
+Final analysis manifests,MR-PRESSO,Outlier rule,Global P<0.05 required; strict-exceedance raw P; Bonferroni across instruments
+Final analysis manifests,MVMR,Primary inference,t df=nsnp-number of exposures; conditional F with gencov=0
+Final analysis manifests,MVMR-Median,Bootstrap,"10,000 parametric iterations; seed 20261026; original outcome-SE weights"
+Final analysis manifests,Colocalization,Priors,p1=1e-4; p2=1e-4; p12=5e-6; W1=(0.15*sdY)^2; W2=0.15^2
+Final analysis manifests,Colocalization,Regions,Lead position plus and minus 500 kb; overlaps merged within layer
+Final analysis manifests,scDRS,Main design,"Top 1,000 genes; 1,000 matched control sets; score random_seed=0"
+Final analysis manifests,scDRS,MAGMA window,35 kb upstream and 10 kb downstream; sensitivity 10 kb and 10 kb
+Final analysis manifests,scDRS,Preprocessing,Raw counts; size-factor to 1e4 and log1p; min 250 genes per cell; min 50 cells per gene
+Final analysis manifests,scDRS,Sensitivity,"Top 500 and top 2,000 genes; six leave-one-donor-out analyses"
+Final analysis manifests,Visium,Random null,"1,000 matched random gene sets per section; add-one empirical P; seeds 20261024 to 20261028"
+Final analysis manifests,Visium,Technical adjustment,Residualized ranks for log1p(nCount) and log1p(nFeature)

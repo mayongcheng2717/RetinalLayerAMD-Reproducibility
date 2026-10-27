@@ -1,0 +1,10 @@
+{
+  "archive_sha256": "a285a742ad11804ea509e9f06f0f73b08a9e7e4f96a42fe8eb59351ccd939b60",
+  "archive_bytes": 16798055,
+  "crc_status": "PASS",
+  "zip_file_entries": 336,
+  "matched_file_entries": 336,
+  "mismatches": [],
+  "payload_file_entries_excluding_README_and_inventory": 334,
+  "status": "PASS"
+}

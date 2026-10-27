@@ -1,0 +1,10 @@
+{
+  "expected_bytes": 1883987282,
+  "status": "hashed",
+  "path": "/mnt/d/本地续跑包/downloads/IAMDGC_lateAMD_related_EUR_annotated.zip",
+  "bytes": 1883987282,
+  "sha256": "1f882b641472904646345ae875888574dd380dd3846f3ac6083b2d5779b33da9",
+  "bytes_match": true,
+  "zip_members": "IAMDGC_lateAMD_related_EUR_annotated.txt",
+  "zip_directory_status": "completed"
+}

@@ -1,0 +1,11 @@
+figure,title,title_words,legend_words,title_pass,legend_pass
+Figure 1,Study design and evidence-tiered interpretation,5,55,True,True
+Figure 2,SNP heritability and genome-wide genetic correlation,6,54,True,True
+Figure 3,Bidirectional and multivariable Mendelian randomization,5,84,True,True
+Figure 4,"Colocalization, tiered SMR prioritization, and exploratory tenascin-X analysis",8,118,True,True
+Figure 5,Single-cell disease relevance scoring,4,72,True,True
+Figure 6,Descriptive spatial transcriptomic analyses of human macula,7,100,True,True
+Supplementary Figure S1,Complete forward MR tests and estimator comparison,7,54,True,True
+Supplementary Figure S2,Multivariable MR diagnostics,3,52,True,True
+Supplementary Figure S3,Sample-overlap bias scenarios for early AMD,6,55,True,True
+Supplementary Figure S4,scDRS sensitivity analyses,3,60,True,True

@@ -1,0 +1,10 @@
+{
+  "Build_Supplementary_Tables_v6.py": {
+    "status": "preserved historical execution code",
+    "note": "The original script retains its pre-repository README string. The delivered workbook has been patched without editing formulas, caches, or styles. After rerunning the historical workbook builder, run Code/Update_Supplementary_Workbook_Repository_Note.py to restore the current repository wording."
+  },
+  "v6_filename_suffixes": {
+    "status": "historical execution filenames",
+    "note": "These names do not identify the current manuscript version. The release supports Manuscript v7."
+  }
+}

@@ -1,0 +1,12 @@
+source_id,Source Name,role,verified_identifier_or_version,Source URL
+Public resource audit,Zekavat UKB OCT GWAS,OCT exposure,Nine processed GRCh37 files; each contains 9769851 variants; variant-level N ranges from 38346 to 38485 in every layer; recommended file-specific N is the median 38485 because the mode fraction is 0.9423848941 and is below the prespecified 0.95 threshold,https://www.kp4cd.org/node/1158
+Public resource audit,FinnGen WET_AMD,Disease outcome,Release 12; endpoint WET_AMD,https://www.finngen.fi/
+Public resource audit,FinnGen DRY_AMD,Disease outcome,Release 12; endpoint DRY_AMD,https://www.finngen.fi/
+Public resource audit,FinnGen DM_MACULOPATHY,Disease outcome,Release 12; endpoint DM_MACULOPATHY,https://www.finngen.fi/
+Public resource audit,FinnGen H7_RETIVASCOCCLUSION,Disease outcome,Release 12; endpoint H7_RETIVASCOCCLUSION,https://www.finngen.fi/
+Public resource audit,IAMDGC 2.0 late AMD European subset,Disease outcome,"IAMDGC 2.0; Gorski, Grunin, Herold et al.; IOVS 2025;66(13):51; doi:10.1167/iovs.66.13.51; European ancestry file IAMDGC_lateAMD_related_EUR_annotated.zip; 1883987282 bytes; raw ZIP SHA256 1f882b641472904646345ae875888574dd380dd3846f3ac6083b2d5779b33da9",http://eaglep.case.edu/iamdgc_web/?page_id=978
+Public resource audit,Winkler early AMD,Sensitivity outcome,GCST010723; Winkler et al. BMC Medical Genomics 2020;13:120; doi:10.1186/s12920-020-00760-7; 14034 cases and 91214 controls; European ancestry; contains UK Biobank participants,https://www.ebi.ac.uk/gwas/studies/GCST010723
+Public resource audit,eQTLGen whole-blood cis-eQTL,SMR exposure,Full cis-eQTL file dated 20191212; BESD dense format,https://www.eqtlgen.org/
+Public resource audit,CELLxGENE adult retina atlas,Single-cell annotation,collection af893e86-8e9f-41f1-a474-ef05359b1fb7; dataset 0129dbd9-a7d3-4f6b-96b9-1da155a93748,https://cellxgene.cziscience.com/collections/af893e86-8e9f-41f1-a474-ef05359b1fb7
+Public resource audit,GSE234047,Visium,GSE234047; 2 control and 3 CNV/MNV sections from 2 donors; 4718 spots; section-level counts and normalized matrices,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE234047
+Public resource audit,INTERVAL protein data,Protein mediation,Sun et al. Nature 2018; 3301 European-ancestry participants; seven harmonised per-SOMAmer files with GCST accessions in INTERVAL_pQTL_file_provenance.csv; all seven local files match official MD5 and byte size,https://www.phpc.cam.ac.uk/ceu/proteins/

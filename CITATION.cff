@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software or source data, please cite the associated manuscript and this release."
+title: "RetinalLayerAMD-Reproducibility"
+type: software
+version: v1.0.0
+date-released: 2026-10-27
+license: MIT
+authors:
+  - given-names: "Yongcheng"
+    family-names: "Ma"
+  - given-names: "Yuzheng"
+    family-names: "Zhou"
+  - given-names: "Jiaxuan"
+    family-names: "Wang"
+  - given-names: "Ruize"
+    family-names: "Zhao"
+  - given-names: "Jiayi"
+    family-names: "Yang"
+  - given-names: "Zongrui"
+    family-names: "Bai"
+  - given-names: "Xinyang"
+    family-names: "Ren"
+  - given-names: "Zhaodong"
+    family-names: "Du"
+keywords:
+  - retina
+  - optical coherence tomography
+  - age-related macular degeneration
+  - Mendelian randomization
+  - colocalization
+  - single-cell transcriptomics
+  - spatial transcriptomics

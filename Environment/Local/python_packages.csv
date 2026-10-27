@@ -1,0 +1,12 @@
+package,version,status
+numpy,2.5.4,installed
+pandas,3.1.0,installed
+scipy,1.18.1,installed
+statsmodels,0.15.0,installed
+scikit-learn,,not_installed
+matplotlib,3.11.2,installed
+openpyxl,,not_installed
+anndata,,not_installed
+scanpy,,not_installed
+scdrs,,not_installed
+h5py,,not_installed

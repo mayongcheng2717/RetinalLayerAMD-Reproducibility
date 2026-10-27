@@ -1,0 +1,6 @@
+{
+  "PLINK_used_for_clumping": ["/tmp/work/ref/plink", "--version"],
+  "SMR": ["smr", "--version"],
+  "MAGMA": ["magma", "--version"],
+  "R_optional": ["Rscript", "--version"]
+}

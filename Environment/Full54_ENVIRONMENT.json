@@ -1,0 +1,26 @@
+{
+  "captured_at": "2026-10-26T12:43:28.215454+00:00",
+  "python": "3.14.4 (main, Aug 20 2026, 10:41:58) [GCC 15.2.0]",
+  "executable": "/usr/bin/python3",
+  "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.43",
+  "machine": "x86_64",
+  "processor": "",
+  "cpu_count": 16,
+  "root": "/mnt/d/本地续跑包",
+  "pipeline_version": "2026-10-25.full54-scdrs.v4",
+  "disk": {
+    "total": 338663649280,
+    "used": 302492123136,
+    "free": 36171526144
+  },
+  "package_versions": {
+    "numpy": "2.3.2",
+    "pandas": "2.3.3",
+    "scipy": "1.16.2",
+    "anndata": "0.13.4",
+    "scanpy": "1.12.4",
+    "scdrs": "1.0.2",
+    "h5py": "3.16.0",
+    "fsspec": "2025.9.0"
+  }
+}

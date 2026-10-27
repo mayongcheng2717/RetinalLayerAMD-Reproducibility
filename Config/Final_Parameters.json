@@ -1,0 +1,96 @@
+{
+  "status": "final",
+  "supersedes": "Historical MR-PRESSO n_sim=3000 and seed=42 settings are not final analysis parameters.",
+  "parameters": [
+    {
+      "source_id": "Final analysis manifests",
+      "analysis": "Forward MR",
+      "parameter": "Primary family",
+      "final_value_or_rule": "54 tests; IVW t df=nsnp-1; MR-Egger t df=nsnp-2"
+    },
+    {
+      "source_id": "Final analysis manifests",
+      "analysis": "Forward MR",
+      "parameter": "Median and modes",
+      "final_value_or_rule": "10,000 nonparametric bootstrap iterations; seeds 1, 2, and 3"
+    },
+    {
+      "source_id": "Final analysis manifests",
+      "analysis": "Mode estimators",
+      "parameter": "Kernel and grid",
+      "final_value_or_rule": "Hartwig normal kernel; Silverman bandwidth; 2,000-point grid"
+    },
+    {
+      "source_id": "Final analysis manifests",
+      "analysis": "MR-PRESSO",
+      "parameter": "Null distribution",
+      "final_value_or_rule": "10,000 simulations; model-specific seeds in MR_PRESSO_seed_map.json"
+    },
+    {
+      "source_id": "Final analysis manifests",
+      "analysis": "MR-PRESSO",
+      "parameter": "Outlier rule",
+      "final_value_or_rule": "Global P<0.05 required; strict-exceedance raw P; Bonferroni across instruments"
+    },
+    {
+      "source_id": "Final analysis manifests",
+      "analysis": "MVMR",
+      "parameter": "Primary inference",
+      "final_value_or_rule": "t df=nsnp-number of exposures; conditional F with gencov=0"
+    },
+    {
+      "source_id": "Final analysis manifests",
+      "analysis": "MVMR-Median",
+      "parameter": "Bootstrap",
+      "final_value_or_rule": "10,000 parametric iterations; seed 20261026; original outcome-SE weights"
+    },
+    {
+      "source_id": "Final analysis manifests",
+      "analysis": "Colocalization",
+      "parameter": "Priors",
+      "final_value_or_rule": "p1=1e-4; p2=1e-4; p12=5e-6; W1=(0.15*sdY)^2; W2=0.15^2"
+    },
+    {
+      "source_id": "Final analysis manifests",
+      "analysis": "Colocalization",
+      "parameter": "Regions",
+      "final_value_or_rule": "Lead position plus and minus 500 kb; overlaps merged within layer"
+    },
+    {
+      "source_id": "Final analysis manifests",
+      "analysis": "scDRS",
+      "parameter": "Main design",
+      "final_value_or_rule": "Top 1,000 genes; 1,000 matched control sets; score random_seed=0"
+    },
+    {
+      "source_id": "Final analysis manifests",
+      "analysis": "scDRS",
+      "parameter": "MAGMA window",
+      "final_value_or_rule": "35 kb upstream and 10 kb downstream; sensitivity 10 kb and 10 kb"
+    },
+    {
+      "source_id": "Final analysis manifests",
+      "analysis": "scDRS",
+      "parameter": "Preprocessing",
+      "final_value_or_rule": "Raw counts; size-factor to 1e4 and log1p; min 250 genes per cell; min 50 cells per gene"
+    },
+    {
+      "source_id": "Final analysis manifests",
+      "analysis": "scDRS",
+      "parameter": "Sensitivity",
+      "final_value_or_rule": "Top 500 and top 2,000 genes; six leave-one-donor-out analyses"
+    },
+    {
+      "source_id": "Final analysis manifests",
+      "analysis": "Visium",
+      "parameter": "Random null",
+      "final_value_or_rule": "1,000 matched random gene sets per section; add-one empirical P; seeds 20261024 to 20261028"
+    },
+    {
+      "source_id": "Final analysis manifests",
+      "analysis": "Visium",
+      "parameter": "Technical adjustment",
+      "final_value_or_rule": "Residualized ranks for log1p(nCount) and log1p(nFeature)"
+    }
+  ]
+}

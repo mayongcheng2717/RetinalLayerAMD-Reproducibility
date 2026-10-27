@@ -1,0 +1,12 @@
+claim,evidence_tier,basis,permitted_interpretation
+Forward INL and OPL associations with early AMD,T1 with T2 sensitivity,"Primary full54 IVW; LOO, MR-PRESSO, estimator and overlap diagnostics",Directional genetic associations; no claim of independent replication or completed mediation
+GCL association with dry AMD,T1 with T2 sensitivity,Primary full54 IVW; estimator-sensitive and close to the FDR threshold,Exploratory directional association
+Reverse early AMD to PS association,T1 with T2 sensitivity,Primary nine-test reverse model; heterogeneity and potential overlap remain,Directional reverse association with caution
+Three-exposure MVMR,T1 with T2 sensitivity,Primary three-exposure model selected within outcome; robust and influence analyses,INL and OPL attenuate; no independent-layer causal claim
+RPE conditional association,T2 only for mechanistic interpretation,Single-SNP-dependent and estimator-inconsistent sensitivity finding,Not an established protective mechanism
+High-support colocalization,T1 under the specified model,Single-causal-variant coloc.abf with fixed priors and windows,Shared association signals only; no layer-thickness mediation claim
+Two-stage SMR catalog and global correction,T1 statistical prioritization with T2 calibration,"42-pair catalog and 2,354-test second-stage audit",Candidate-gene prioritization; blood eQTL and first-stage selection limitations retained
+TNXB protein chain,T2 exploratory,Historical 32-instrument chain and GRCh37 sensitivity,Indirect effect nonsignificant; mediation not confirmed
+scDRS cellular associations,T3 biological context with T2 internal robustness,Primary 66 tests; global FDR; parameter and donor-omission sensitivity,Cellular context within one atlas; no independent donor replication
+Visium spatial findings,T3 descriptive,"Two donors, five sections, matched-random empirical nulls",Descriptive tissue context only; no donor-level disease inference
+ENSG00000258311 spatial status,T3 annotation audit with U validation,No valid alias retrieved in the Visium matrix,No spatial validation claim
